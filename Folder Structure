@@ -1,0 +1,16 @@
+# Folder Structure
+my-portfolio/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── About.jsx
+│   ├── Skills.jsx
+│   ├── Projects.jsx
+│   ├── Contact.jsx
+│   └── Footer.jsx
+├── styles/
+│   └── globals.css
+├── pages/
+│   └── index.js
+└── public/
+    └── images/
